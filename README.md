@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyadharshini-B265
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning a working professional and pursuing MS in Applied Artificial Intelligence
+- 🌱 I’m currently a working professional and pursuing MS in Applied Artificial Intelligence
 - 💞️ I’m looking to collaborate on real world projects
 - 📫 you can reach me through LinkedIn 
 
